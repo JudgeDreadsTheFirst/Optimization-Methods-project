@@ -1,0 +1,7 @@
+[ERROR]:not enough/too many params in TARG block, line[2] line value:(41, 8467, 22, 0, 5)
+[ERROR]:price is not a positive number in TARG block, line[3] line value:(-9169, 5724, 778, 0)
+[ERROR]:coordinate values or rad value are below zero in TARG block, line[3] line value:(-9169, 5724, 778, 0)
+[ERROR]:coordinate values or rad value are below zero in TARG block, line[4] line value:(6962, -4464, 1005, 45)
+[WARNING]: PADS block, has to many strings, using only one. It may cause an error 
+[WARNING]: TUBE block, has to many strings, using only one. It may cause an error 
+[MESSAGE]: programm started without cross test

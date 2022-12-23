@@ -1,2 +1,2 @@
 # Optimization-Methods-project
-Some code for optimization methods coursework
+very ugly python code. Need to be burned.
